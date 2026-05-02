@@ -12,7 +12,7 @@
   --rose-50: hsl(330, 100%, 98%);
 }
 body {
-  background-color: var(--rose-50);
+  background-color: var(--stone-600);
   display: flex;
   justify-content: center;
   align-items: center;
